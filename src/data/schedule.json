@@ -1,0 +1,43 @@
+{
+	"objects": [
+    {
+        "title": "Welcome",
+        "speaker": "",
+        "time": "9:00 AM"
+    },
+    {
+        "title": "Keynote - Developer Economics",
+        "speaker": "Eli Camilleri",
+        "time": "9:15 AM"
+    },
+    {
+        "title": "Opening Panels",
+        "speaker": "Jose Valles",
+        "time": "09:30 AM"
+    },
+    {
+        "title": "Hear it from the mobile CEOs",
+        "speaker": "Talmon Marco",
+        "time": "11:00 AM"
+    },
+    {
+        "title": "Insights on the Mobile App Economy",
+        "speaker": "Reimund Schmald",
+        "time": "12:00"
+    },
+    {
+        "title": "Insights on the Mobile App Economy",
+        "speaker": "Fadi Bishara",
+        "time": "14:00 PM"
+    },
+    {
+        "title": "Innovation in the Mobile App Economy",
+        "speaker": "Andrew Berglund",
+        "time": "15:00 PM"
+    },
+    {
+        "title": "Wraap up of the day",
+        "speaker": "",
+        "time": "16:00"
+    }]
+}
